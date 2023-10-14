@@ -1,0 +1,15 @@
+{
+  "name": "arcsecond-repro2",
+  "version": "0.1.0",
+  "description": "Reproduce parse error in arcsecond's `customSepByWithSequenceOf` example of tutorial 4",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "arcsecond": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}

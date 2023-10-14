@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "module": "ES6",
+    "moduleResolution": "node16",
+    "noImplicitAny": true,
+    "outDir": "dist",
+    "target": "ES6"
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
